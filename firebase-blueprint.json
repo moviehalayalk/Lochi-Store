@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "collections": [
+    {
+      "name": "products",
+      "description": "Handcrafted hair accessories and gift sets catalog",
+      "indexes": ["category", "price", "createdAt"]
+    },
+    {
+      "name": "orders",
+      "description": "Customer purchase orders, delivery details, and statuses",
+      "indexes": ["customerId", "status", "createdAt"]
+    },
+    {
+      "name": "site_content",
+      "description": "Boutique contact, Galle address, announcements, and banners"
+    },
+    {
+      "name": "users",
+      "description": "Registered customer profiles and admin privileges"
+    }
+  ]
+}
