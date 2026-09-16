@@ -1,0 +1,6 @@
+{
+  "name": "Lochi Store",
+  "description": "Sri Lanka's boutique for handmade luxury satin and silk scrunchies, hair accessories, and aesthetic gift sets based in Galle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
